@@ -74,10 +74,14 @@ h1 {
   
   .social li a {
     text-decoration: none;
-    color: var(--text-color);
+    color: #fff;
     transition: 1s color;
   }
   
   .social li a:hover {
     color: #f00;
   }
+
+  .fa, .far, .fas {
+    font-family: "Font Awesome 5 Free";
+}
