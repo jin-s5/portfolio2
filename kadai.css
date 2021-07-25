@@ -2,4 +2,9 @@ pic/pic1.jpg :hover {
     background-color: gray
 }
 
-  
+img {
+    width: 960px;
+    height: 540px;
+}
+
+
