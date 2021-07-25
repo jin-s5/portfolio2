@@ -1,10 +1,18 @@
-pic/pic1.jpg :hover {
+img :hover {
     background-color: gray
 }
 
 img {
-    width: 960px;
-    height: 540px;
+    width: 640px;
+    height: 360px;
 }
 
+td {
+    vertical-align: middle;
+}
+
+td img {
+    display: inline-block;
+    vertical-align: middle;
+}
 
