@@ -60,3 +60,24 @@ h1 {
     height: 600px;
 }
 
+.social {
+    list-style: none;
+    display: flex;
+    margin-top: 1.5rem;
+  }
+  
+  .social li {
+    line-height: 1;
+    padding: 0.5rem;
+    font-size: 1.5rem;
+  }
+  
+  .social li a {
+    text-decoration: none;
+    color: var(--text-color);
+    transition: 1s color;
+  }
+  
+  .social li a:hover {
+    color: #f00;
+  }
