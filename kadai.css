@@ -64,6 +64,7 @@ h1 {
     list-style: none;
     display: flex;
     margin-top: 1.5rem;
+    display: inline-block;
   }
   
   .social li {
